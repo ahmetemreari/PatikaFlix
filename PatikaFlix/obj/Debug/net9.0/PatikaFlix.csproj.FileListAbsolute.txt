@@ -1,0 +1,14 @@
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/bin/Debug/net9.0/PatikaFlix
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/bin/Debug/net9.0/PatikaFlix.deps.json
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/bin/Debug/net9.0/PatikaFlix.runtimeconfig.json
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/bin/Debug/net9.0/PatikaFlix.dll
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/bin/Debug/net9.0/PatikaFlix.pdb
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.AssemblyInfoInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.AssemblyInfo.cs
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.csproj.CoreCompileInputs.cache
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.dll
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/refint/PatikaFlix.dll
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.pdb
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/PatikaFlix.genruntimeconfig.cache
+/Users/ahmetemreari/Desktop/Projeler/PatikaFlix/PatikaFlix/obj/Debug/net9.0/ref/PatikaFlix.dll

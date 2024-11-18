@@ -1,0 +1,20 @@
+Bu pratikte sizlerden bir Diziler listesi oluşturmanız ve içerisindeki nesneleri tanımlamanız bekleniyor. Elemanların oluşturuluşu Console ekranı üzerinden olacak.
+
+Yani kullanıcıya her diziyi oluşturup listeye ekledikten sonra yeni bir dizi ekleyip eklemediğini sormamız gerekiyor.
+
+örnek veriler : 
+ Bu yeni listenin bütün elemanlarını bütün özellikleriyle ekrana yazdırınız. Yazımın öncelikle dizi isimleri sonra da yönetmen isimleri baz alınarak sıralanmasına özen gösteriniz.
+Dizi Adı :Avrupa Yakası ,Türü : Komedi Yapım Yılı :2004 , Yayınlamaya Başladığı Tarih :2004 , yönetmenler :Yüksel Aksu , Yayınlandığı İlk Platform :  KANAL D
+Dizi Adı : YALAN DÜNYA, Yapım Yılı :2012,Türü : Komedi Yayınlamaya Başladığı Tarih :2012, Yönetmenler :Gülseren Buda Başkaya , Yayınlandığı İlk Platform : fox tv
+Dizi Adı :jet sosyete , Yapım Yılı :2018 ,Türü : Komedi , Yayınlamaya Başladığı Tarih :2018 , Yönetmenler : Gülseren buda Başkaya, Yayınlandığı İlk Platform : tv 8
+Dizi Adı : dadı, Yapım Yılı :2006 ,Türü : Komedi, Yayınlamaya Başladığı Tarih : 2006, Yönetmenler :Yusuf pirhasan , Yayınlandığı İlk Platform : kanal D
+Dizi Adı :belalı baldız , Yapım Yılı :2007 , Türü : Komedi, Yayınlamaya Başladığı Tarih :2007 , Yönetmenler :yüksel aksu , Yayınlandığı İlk Platform :  kanal D
+Dizi Adı : arka sokaklar, Yapım Yılı :2004 ,Türü : Polisiye, Dram, Yayınlamaya Başladığı Tarih : 2004, Yönetmenler :orhan oğuz , Yayınlandığı İlk Platform : kanal d  
+Dizi Adı : aşkı memnu , Yapım Yılı :2008 ,Türü : Dram , Romantik, Yayınlamaya Başladığı Tarih :2008 , Yönetmenler : hilal saral , Yayınlandığı İlk Platform : kanal d 
+Dizi Adı : muhteşem yüzyıl , Yapım Yılı :2011 ,Türü : Tarihi , Dram Yayınlamaya Başladığı Tarih :2011 , Yönetmenler :mercan çilingirlioğlu , Yayınlandığı İlk Platform : star tv
+Dizi Adı : , Yapım Yılı :2006 ,Türü :Dram, Yayınlamaya Başladığı Tarih :201, Yönetmenler : serdar akar, Yayınlandığı İlk Platform : kanal d
+Ardından aşağıda istenilen işlemleri gerçekleştiriniz.
+
+İlk listenizde bulunan komedi dizilerinden yeni bir liste oluşturunuz. Bu listede yalnızca Dizi Adı / Dizi Türü / Yönetmen bilgileri yer alsın (Yani başka bir class ihtiyacınız doğuyor.)
+
+ Bu yeni listenin bütün elemanlarını bütün özellikleriyle ekrana yazdırınız. Yazımın öncelikle dizi isimleri sonra da yönetmen isimleri baz alınarak sıralanmasına özen gösteriniz.
